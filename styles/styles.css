@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=La+Belle+Aurore&family=Lobster&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Quicksand:wght@300&display=swap');
+
+.titulo {
+    font-family: 'creepster', 'cursive';
+    text-align: center;
+}
+
+#inicio {
+    background-color: #ffddd8;
+}
+
+.artistas {
+    font-family: 'lobster';
+    text-align: center;
+}
+
+#chiaNeMuza {
+    background-color: #520c00;
+    color: #cfc9b2;
+    font-size: 99px;
+}
+
+.vision {
+    text-align: center;
+    font-family: 'La Belle Aurore';
+}
+
+.galeria {
+    font-family: 'lobster';
+    text-align: center;
+    background-color: #d7c0cc;
+}
+
+.tituloSobreMi {
+    font-family: 'lobster';
+    font-size: 50px;
+}
+
+.sobreMi {
+    font-family: 'La Belle Aurore';
+    text-align: left;
+    font-size: xx-large;
+}
+
+.texto {
+    font-family: 'Quicksand';
+    font-size: 25px;
+    text-align: left;
+}
+
+.textoCursivo {
+    font-family: 'La Belle Aurore';
+    text-align: left;
+}
+
+#paula {
+    background-color: #ff5a3e;
+    text-align: left;
+}
+
+div.noticia img.derecha {
+    width: 30%;
+    margin: 20px auto;
+    padding: 15px;
+    float: right;
+    margin-left: 15px;
+}
+
+.tituloBiografias {
+    font-family: 'lobster';
+    text-align: center;
+    font-size: 60px;
+}
